@@ -24,11 +24,11 @@ let h1 = newElement('h1',{
 	classList: ['big',],
 	textContent: 'aa'
 },decument.body)
-let form = newElement('form',{
-	classList: ['gray','big'],
-	textContent: 'aa',
-	value:'31'
+
+let div = newElement('div',{
+	classList:['bgc-green']
 },document.body)
+
 
 
 document.body.append(form)

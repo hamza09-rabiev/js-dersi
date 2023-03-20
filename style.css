@@ -1,5 +1,5 @@
 body{
-	background-color: #907474;
+	background-color: #b0fffa;
 }
 .red{
 	color: red;
@@ -10,4 +10,8 @@ body{
 }
 .emp{
 	font-style: italic;
+}
+
+.bgc-green{
+	background-color: rgb(136, 236, 149);
 }
